@@ -1,2 +1,2 @@
 # Newrepository
-just for practice
+just for practice and try to learn something
